@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KJDChallenge/static/css/main.2c2fe084.chunk.css",
+    "main.js": "/KJDChallenge/static/js/main.2e69f3da.chunk.js",
+    "main.js.map": "/KJDChallenge/static/js/main.2e69f3da.chunk.js.map",
+    "runtime-main.js": "/KJDChallenge/static/js/runtime-main.992d5b43.js",
+    "runtime-main.js.map": "/KJDChallenge/static/js/runtime-main.992d5b43.js.map",
+    "static/js/2.2878d028.chunk.js": "/KJDChallenge/static/js/2.2878d028.chunk.js",
+    "static/js/2.2878d028.chunk.js.map": "/KJDChallenge/static/js/2.2878d028.chunk.js.map",
+    "index.html": "/KJDChallenge/index.html",
+    "precache-manifest.8c99e3a3b69f016e73dfcf730392c61b.js": "/KJDChallenge/precache-manifest.8c99e3a3b69f016e73dfcf730392c61b.js",
+    "service-worker.js": "/KJDChallenge/service-worker.js",
+    "static/css/main.2c2fe084.chunk.css.map": "/KJDChallenge/static/css/main.2c2fe084.chunk.css.map",
+    "static/js/2.2878d028.chunk.js.LICENSE": "/KJDChallenge/static/js/2.2878d028.chunk.js.LICENSE",
+    "static/media/sanlam.png": "/KJDChallenge/static/media/sanlam.0e1b9872.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992d5b43.js",
+    "static/js/2.2878d028.chunk.js",
+    "static/css/main.2c2fe084.chunk.css",
+    "static/js/main.2e69f3da.chunk.js"
+  ]
+}
