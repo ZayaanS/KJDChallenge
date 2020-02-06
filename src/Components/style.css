@@ -1,0 +1,221 @@
+/* ---------- Font ---------- */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yantramanav:100,300,400,500,700,900&display=swap');
+
+/* ---------- Body ----------- */
+body{
+	background-color: #e3e5e7;
+	font-family: 'Open Sans', sans-serif;
+	color: #7c7b7d;
+}
+
+/* ---------- Buttons ---------- */
+.buttons{
+	margin-top: 30px;
+}
+
+.buttons button{
+	padding: 15px 25px;
+	width: 160px;
+	margin: 3px;
+	border-radius: 5px;
+	background-color: #2875ca;
+	color: #FFFFFF;
+	border: none;
+	box-shadow: 1px 1px 8px rgba(0,0,0,0.3);
+	text-transform: uppercase;
+}
+
+/* ---------- Cards ---------- */
+.card{
+	border-radius: 5px;
+	width: 350px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	margin-top: 20px;
+	box-shadow: 1px 1px 8px rgba(0,0,0,0.3);
+}
+
+.card p{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.cardHeader{
+	background-color: #2875ca;
+	padding-top: 10px;
+	color: #FFFFFF;
+	border-radius: 5px 5px 0px 0px;
+	min-height: 60px;
+}
+
+.cardHeader h2{
+	font-size: 20px;
+	font-weight: normal;
+	margin-top: 24px;
+	line-height: 21px;
+}
+
+.cardHeader p{
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 22px;
+	padding-bottom: 10px;
+}
+
+.cardHeader svg{
+	height: 52px;
+	width: 52px;
+	float: left;
+	margin-left: 20px;
+}
+
+.headerText{
+	width: 200px;
+	text-align: left;
+	margin-left: 90px;
+	margin-top: -20px;
+}
+
+.headerText h2{
+	margin-bottom: -20px;
+}
+
+.headerText p{
+	padding-bottom: 12px;
+}
+
+.cardBody{
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.cardBody p{
+	margin-bottom: -20px;
+}
+
+.cardBody h2, h3{
+	color: #2875ca;
+	font-weight: bold;
+	font-family: 'Yantramanav', sans-serif;
+	margin-top: 20px;
+}
+
+.cardBody h2{
+	font-size: 35px;
+	margin-bottom: 0px;
+}
+
+.cardBody h3{
+	font-size: 28px;
+	margin-bottom: 0px;
+}
+
+#info{
+	float: right;
+	margin-right: 200px;
+}
+
+#viewFundButton{
+	margin-top: 50px;
+	background-color: #2875ca;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	border: none;
+	padding: 10px 50px;
+	border-radius: 20px;
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: 500;
+	margin-bottom: 10px;
+}
+
+.bottomButtonDiv{
+	width: 350px;
+	margin-left: -20px;
+	text-align: center;
+}
+
+#applicationButton{
+	margin-top: 15px;
+	background-color: #2875ca;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 20px;
+}
+
+#cancelButton{
+	color: #2875ca;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: 'Yantramanav', sans-serif;
+	background-color: #e3e5e7;
+	margin-top: 25px;
+	border-radius: 20px;
+	border: none;
+	padding: 3px 10px;
+	float: right;
+	margin-top: -10px;
+	margin-right: 80px;
+}
+
+#cancelButton svg{
+	float: right;
+	margin-left: 3px;
+}
+
+#portfolioManager{
+	text-align: right;
+	margin-top: 30px;
+}
+
+#portfolioManager p{
+	margin-bottom: 3px;
+}
+
+#portfolioManager img{
+	width: 55%;
+}
+
+.textBoxRight{
+	width: 190px;
+	float: right;
+	margin-top: -110px;
+}
+
+.textBoxRight p{
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+.textBoxRight hr{
+	margin-top: 20px;
+	margin-bottom: -5px;
+}
+
+.textBoxBottom{
+	margin-top: 70px;
+}
+
+.textBoxBottom h3{
+	font-size: 30px;
+}
+
+#investingDate{
+	color: #2875ca;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: 'Yantramanav', sans-serif;
+}
+
+hr{
+	border: 0;
+    box-shadow: 0 0 1px 0.1px black;
+}
